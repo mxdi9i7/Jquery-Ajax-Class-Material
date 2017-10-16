@@ -1,0 +1,6 @@
+1. Make a input that allows user to input a name
+2. this name will send a request to the movie database
+3. the movie database will return a bunch of data
+4. display the first movie star on the screen along with his name, famouseFor, profile picture etc.
+
+5. display the first 20 results that are the closest to your search query, display only their names and profile pictures.
